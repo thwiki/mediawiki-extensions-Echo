@@ -513,7 +513,6 @@
 		"AbortTalkPageEmailNotification": "MediaWiki\\Extension\\Notifications\\Hooks::onAbortTalkPageEmailNotification",
 		"SendWatchlistEmailNotification": "MediaWiki\\Extension\\Notifications\\Hooks::onSendWatchlistEmailNotification",
 		"GetNewMessagesAlert": "MediaWiki\\Extension\\Notifications\\Hooks::abortNewMessagesAlert",
-		"LinksUpdateComplete": "MediaWiki\\Extension\\Notifications\\Hooks::onLinksUpdateComplete",
 		"SpecialMuteModifyFormFields": "MediaWiki\\Extension\\Notifications\\Hooks::onSpecialMuteModifyFormFields",
 		"RecentChange_save": "main",
 		"ApiMain::moduleManager": "MediaWiki\\Extension\\Notifications\\Hooks::onApiMainModuleManager",
